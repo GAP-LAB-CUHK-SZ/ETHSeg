@@ -7,7 +7,7 @@ ETHSeg: An Amodel Instance Segmentation Network and a Real-world Dataset for X-R
 Google Drive: [WIXRayNet](https://drive.google.com/file/d/1maV_P5vFahWvOi3a7EHdhMpaI9fV8Ed9/view?usp=sharing)
 
 ## Code 
-Coming Soon
+Coming Soon！
 
 ## Citation
 ```
